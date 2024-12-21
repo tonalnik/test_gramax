@@ -1,0 +1,9 @@
+description: Два стола, два стула
+target: master
+author: tonalnik <kazanovdanil@yahoo.com>
+assignees:
+- signature: tonalnik <kazanovdanil@yahoo.com>
+  approvedAt: '2024-12-21 22:59:31'
+createdAt: '2024-12-21 22:58:02'
+options:
+  deleteAfterMerge: true
