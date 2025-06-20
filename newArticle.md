@@ -2,7 +2,7 @@
 title: Новая статья
 ---
 
-Это новая статья 2 master
+Это новая статawdawdawdawdья 2 master
 
 ## Загwawdоловок
 
